@@ -1,2 +1,2 @@
-print("Hello, Dima") 
+print("Hello, Olesya") 
 a = 10
